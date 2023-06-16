@@ -1,4 +1,8 @@
 {
+  "scripts": {
+    "cypress:chrome": "cypress run --browser chrome",
+    "cypress:firefox": "cypress run --browser firefox"
+  },
   "devDependencies": {
     "cypress": "^12.14.0"
   }
